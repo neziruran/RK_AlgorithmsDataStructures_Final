@@ -1,0 +1,40 @@
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/bin/Debug/netcoreapp3.1/AdventureGame.deps.json
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/bin/Debug/netcoreapp3.1/AdventureGame.runtimeconfig.json
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/bin/Debug/netcoreapp3.1/AdventureGame.runtimeconfig.dev.json
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/bin/Debug/netcoreapp3.1/AdventureGame.dll
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/bin/Debug/netcoreapp3.1/AdventureGame.pdb
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.csprojAssemblyReference.cache
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.AssemblyInfoInputs.cache
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.AssemblyInfo.cs
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.dll
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.pdb
+/Users/applecore/Desktop/Desktop/csd228/AdventureGame/obj/Debug/netcoreapp3.1/AdventureGame.genruntimeconfig.cache
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\90535\Desktop\TH-Köln\RK - Data Structures & Algorithms\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\90535\Desktop\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\90535\Desktop\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache
